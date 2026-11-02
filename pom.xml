@@ -23,9 +23,10 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://65.0.138.41:9000/</sonar.host.url>
 		<!-- <sonar.token>your_generated_token_here</sonar.token> -->
+		<sonar.token>squ_b3fa81a4f2b7ea8e2b76250b25387931a1a8fad6</sonar.token>
     <!-- remove these two lines -->
-    	<sonar.login>admin</sonar.login> 
-    	 <sonar.password>password</sonar.password>
+    <!--	<sonar.login>admin</sonar.login> -->
+    <!--	 <sonar.password>password</sonar.password>-->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
