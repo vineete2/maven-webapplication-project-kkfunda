@@ -21,9 +21,9 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://65.0.138.41:9000/</sonar.host.url>
+		<sonar.host.url>http://13.126.218.233:9000/</sonar.host.url>
 		<!-- <sonar.token>your_generated_token_here</sonar.token> -->
-		<sonar.token>squ_b3fa81a4f2b7ea8e2b76250b25387931a1a8fad6</sonar.token>
+		<sonar.token>squ_039c185f0c1661a205dbbc39d565aa7965c4a98b</sonar.token>
     <!-- remove these two lines -->
     <!--	<sonar.login>admin</sonar.login> -->
     <!--	 <sonar.password>password</sonar.password>-->
