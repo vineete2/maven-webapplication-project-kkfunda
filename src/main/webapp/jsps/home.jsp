@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> WELCOME TO B11 KKDEVOPS NEW MORNING BATCH WILL START at 6.45 am</h1>     
+     <h1> WELCOME TO B11 KKDEVOPS OLd MORNING BATCH WILL START at 6.45 am</h1>     
     <h3>Training | Development | Consulting</h3>
 </header>
 
