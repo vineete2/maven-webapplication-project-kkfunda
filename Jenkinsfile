@@ -28,7 +28,7 @@ node {
         sh """
             curl -u kk:password \
             --upload-file target/maven-web-application.war \
-            "http://65.0.178.196:8080/manager/text/deploy?path=/maven-web-application&update=true"
+            "http://16.4.75.64:8080/manager/text/deploy?path=/maven-web-application&update=true"
         """
     }
 
